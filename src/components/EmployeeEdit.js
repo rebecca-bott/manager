@@ -7,6 +7,7 @@ import Button from './common/Button';
 import EmployeeForm from './EmployeeForm';
 import _ from 'lodash';
 import Communications from 'react-native-communications';
+import {Modal} from 'react-native';
 
 
 class EmployeeEdit extends Component {
